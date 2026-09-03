@@ -1,7 +1,7 @@
 ## Hi, I'm Mahammad 👋
 
 ### Who am I?
-Computer Science graduate from **Eötvös Loránd University** (Hungary), now based in Baku, building my way into **networking and cybersecurity**.
+Computer Science graduate from **Eötvös Loránd University** (Hungary), now based in Baku, Azerbaijan building my way into **networking and cybersecurity**.
 
 ### What am I currently working on?
 - Strengthening networking and Linux fundamentals through hands-on labs
