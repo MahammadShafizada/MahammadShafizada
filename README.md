@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mahammad 👋
 
-<!--
-**MahammadShafizada/MahammadShafizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+Computer Science graduate from **Eötvös Loránd University** (Hungary), now based in Baku, building my way into **networking and cybersecurity**. My interest in security took shape during my last few semesters of university, and I've been going all in on it since graduating.
 
-Here are some ideas to get you started:
+### What am I currently working on?
+- Strengthening networking and Linux fundamentals through hands-on labs
+- Small security-focused projects to apply what I'm learning
+- Practicing real-world scenarios on **TryHackMe**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What tools do I use?
+- **OS/Systems:** Linux, Windows
+- **Networking:** Wireshark, subnetting/troubleshooting tools
+- **Scripting:** Python
+- **Practice platforms:** TryHackMe
+
+### How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/mahammad-shafizada/)
+
+---
+⚡ *Learning in public, one lab at a time.*
